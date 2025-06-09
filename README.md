@@ -4,7 +4,7 @@ A distributed calculator service implemented using ZeroC Ice for RMI and Apache 
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - Java Runtime Environment (JRE) for Kafka
 - Apache Kafka
 - ZeroC Ice
